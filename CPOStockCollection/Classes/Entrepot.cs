@@ -43,10 +43,10 @@ namespace CPOStockCollection.Classes
 
         public override String ToString()
         {
-            String output = "Entrepot " + this.nomEntrepot + "\n\n";
+            String output = this.nomEntrepot + "\n";
             foreach(KeyValuePair<Item, int> entry in this.stocks)
             {
-                output += entry.Key.ToString() + " : " + entry.Value;
+                output += "\n" + entry.Key.ToString() + " : " + entry.Value;
             }
             return output;
         }
@@ -57,6 +57,31 @@ namespace CPOStockCollection.Classes
         {
             this.nomEntrepot = nomEntrepot;
             this.stocks = new Dictionary<Item, int>();
+        }
+
+        public void addItem(Item item, int qt = 0)
+        {
+            this.stocks.Add(item, qt);
+        }
+
+        public void removeItem(Item item)
+        {
+            this.stocks.Remove(item);
+        }
+
+        public void addQt(Item item, int qt)
+        {
+            this.stocks[item] += qt;
+        }
+
+        public void removeQt(Item item, int qt)
+        {
+            this.stocks[item] -= qt;
+        }
+
+        public void resetQt(Item item)
+        {
+            this.stocks[item] = 0;
         }
         #endregion
     }
