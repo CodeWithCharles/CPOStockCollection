@@ -1,0 +1,11 @@
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\bin\Debug\netcoreapp3.1\CPOAgenceCollection.exe
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\bin\Debug\netcoreapp3.1\CPOAgenceCollection.deps.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\bin\Debug\netcoreapp3.1\CPOAgenceCollection.runtimeconfig.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\bin\Debug\netcoreapp3.1\CPOAgenceCollection.runtimeconfig.dev.json
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\bin\Debug\netcoreapp3.1\CPOAgenceCollection.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\bin\Debug\netcoreapp3.1\CPOAgenceCollection.pdb
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\obj\Debug\netcoreapp3.1\CPOAgenceCollection.csprojAssemblyReference.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\obj\Debug\netcoreapp3.1\CPOAgenceCollection.AssemblyInfoInputs.cache
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\obj\Debug\netcoreapp3.1\CPOAgenceCollection.AssemblyInfo.cs
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\obj\Debug\netcoreapp3.1\CPOAgenceCollection.dll
+C:\Users\Charles\Desktop\2SIO\STJOSUP\BLOC3\C#\CPOAgenceCollection\CPOAgenceCollection\obj\Debug\netcoreapp3.1\CPOAgenceCollection.pdb
